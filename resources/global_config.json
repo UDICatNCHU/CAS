@@ -1,0 +1,7 @@
+{
+	"version": "v1_0",
+	"jieba_dict_path": "/Users/hua/udic_lab/nlp_data/JiebaDict/Jieba_cht_dict/dict.txt.big.txt",
+	"stop_words_path": "/Users/hua/udic_lab/nlp_data/JiebaDict/stop_words/stop_words.txt",
+	"jieba_user_dict_path": "/Users/hua/udic_lab/nlp_data/JiebaDict/UserDict_from_wiki/NameDict_Ch_v2.txt",
+	"kcm_dict_path": "/Users/hua/udic_lab/nlp_data/kcm/cht.model"
+}
